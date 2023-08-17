@@ -13,7 +13,7 @@ class OrderField extends Field
      *
      * @var string
      */
-    public $component = 'OrderField';
+    public $component = 'order-field';
 
     /**
      * @var bool
